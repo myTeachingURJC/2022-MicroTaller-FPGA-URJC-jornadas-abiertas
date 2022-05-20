@@ -14,9 +14,11 @@ Micro taller de FPGAs libres para las Jornadas de puertas abiertas de la ETSI Te
 ## Guión
 
 * Arranca Icestudio
-* Abre el diseño plantilla: Archivo/Abrir. Fichero: Circuito-plantilla.ice
+* Abre el diseño plantilla: **Archivo/Abrir**. Fichero: `Circuito-plantilla.ice`
 
 ### Circuito 1: Encender LEDs
+
+* Concepto de Bit
 
 #### Ejemplo 1
 
