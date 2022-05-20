@@ -382,7 +382,7 @@
           "id": "3f0e2ffa-653a-40ea-94fa-fc2393c02130",
           "type": "basic.info",
           "data": {
-            "info": "# ADREA DE DISEÑO",
+            "info": "# AREA DE DISEÑO",
             "readonly": true
           },
           "position": {
